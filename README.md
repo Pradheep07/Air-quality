@@ -62,7 +62,6 @@ This project implements an **air quality monitoring system** using the PIC micro
    - XC8 Compiler
 2. **Clone Repository**:
    ```bash
-   git clone https://github.com/<your-username>/air-quality-monitor.git
    cd air-quality-monitor
    ```
 3. **Open Project**:
